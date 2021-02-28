@@ -1,20 +1,23 @@
-# Windows2019RDP-US
-Windows Server 2019 Github with RDP Access (ngrok US) 
+# RDP Windows 2019 Gratis 100%
 
-Repo link: https://github.com/ThuongHai/Windows2019RDP-US
+RDP Windows Gratis 24 jam Always ON
 
-YouTube Video: https://youtu.be/mpdviKL3j40
+Repo link: https://github.com/hasbi313/WindowsRDP-INA2
 
-Create a free VPS with 2cpu-7gb Ram FREE with Github:
+YouTube Video: soon
 
-*For Asia go to https://github.com/ThuongHai/Windows2019RDP-AP*
+Buat RDP Windows Ram 7GB 2core cpu Dengan Github:
 
-+ Click Fork in the right corner of the screen to save it to your Github.
-+ Visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
-+ In Github go to Settings> Secrets> New repository secret
-+ In Name: enter NGROK_AUTH_TOKEN
-+ In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
-+ Press Add secret
-+ Go to Action> CI> Run workflow
-+ Reload the page and press CI> build
-+ Press the down arrow on Connect To Your RPD to get IP, User, Password.
++ Tekan Tombol Fork untuk membuat RDP(bagu pengguna Android/HP disilahkan pake google chrome mode desktop).
++ kunjungi https://dashboard.ngrok.com untuk mendapatkan NGROK_AUTH_TOKEN
++ Di Dalam Repo ini Pergi ke Settings> Secrets> New repository secret
++ isi Nama: Masukan NGROK_AUTH_TOKEN
++ isi Value: Kunjungi https://dashboard.ngrok.com/auth/your-authtoken Copy Dan Paste di dalam value
++ Tekan Add secret
++ Pergi Ke Action> CI> Run workflow
++ Refresh Web dan masuk ke CI> build
++ Tekan Tombol panah menghadap ke bawah "Info Login RDP" Untuk Mendapatkan IP, User, Password.
+
++ My FB : HasbiHidayat
++ My Whatsapp : 081230423770
++ My Youtube : ItsHasbi
