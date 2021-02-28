@@ -18,6 +18,10 @@ Buat RDP Windows Ram 7GB 2core cpu Dengan Github:
 + Refresh Web dan masuk ke CI> build
 + Tekan Tombol panah menghadap ke bawah "Info Login RDP" Untuk Mendapatkan IP, User, Password.
 
+
+
+
+
 + My FB : HasbiHidayat
 + My Whatsapp : 081230423770
 + My Youtube : ItsHasbi
